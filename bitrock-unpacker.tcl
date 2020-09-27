@@ -1,9 +1,6 @@
 #!/usr/bin/env tclkit
 #
 # Bitrock unpacking script
-# This script should be executed using 32-bit tclkit because
-# it uses Tcllzmadec provided by the installer blob which likely only
-# contains the 32 bit tcl lzma decompression shared opject, liblzmadec0.2.so
 # Author : mickael9 <mickael9 at gmail dot com>
 
 source /usr/bin/sdx.kit
